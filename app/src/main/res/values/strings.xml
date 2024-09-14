@@ -9,4 +9,24 @@
     <string name="title_musica">Música</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valtitleprincipal">FRAGMENTOS CON ANDROID</string>
+    <string name="valrbmale">Male</string>
+    <string name="valrbfemale">Female</string>
+    <string name="valrbother">Other</string>
+    <string name="valckLicense">License</string>
+    <string name="valckCar">Car</string>
+    <string name="valbtsave">SAVE</string>
+    <string name="hintfullname">Enter full name</string>
+
+
+    <string-array name="country_array">
+        <item>Argentina</item>
+        <item>Venezuela</item>
+        <item>Colombia</item>
+        <item>Uruguay</item>
+        <item>Brasil</item>
+        <item>Ecuador</item>
+        <item>Bolivia</item>
+        <item>Perú</item>
+    </string-array>
 </resources>
